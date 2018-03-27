@@ -1,0 +1,8 @@
+---
+- name: Config Apache Server
+  hosts: default
+  sudo: True
+  roles:
+    - role: geerlingguy.apache
+
+

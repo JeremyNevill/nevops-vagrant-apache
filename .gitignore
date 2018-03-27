@@ -1,6 +1,4 @@
-# Compiled files
-*.tfstate
-*.tfstate.backup
+roles/
+.vagrant/
+.idea/
 
-# Module directory
-.terraform/
